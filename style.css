@@ -16,8 +16,10 @@ https://cdn.broadcasthe.net/styles/smpte/style.css
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
 @import url(https://cdn.jsdelivr.net/gh/3x4nur0u5/beluga@f6bd197/layout.css);
 @import url(https://cdn.jsdelivr.net/gh/3x4nur0u5/beluga@f6bd197/permissions/original.css);
+
+@import url(https://raw.githubusercontent.com/Willx636/css-btn/3fd4960550c6405d81f5ca69a14daaa7d584bfde/layout.css);
 *********************************/
 
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
-@import url(https://raw.githubusercontent.com/Willx636/css-btn/3fd4960550c6405d81f5ca69a14daaa7d584bfde/layout.css);
+@import url(https://cdn.jsdelivr.net/gh/3x4nur0u5/beluga@f6bd197/layout.css);
 @import url(https://raw.githubusercontent.com/Willx636/css-btn/3fd4960550c6405d81f5ca69a14daaa7d584bfde/original.css);
